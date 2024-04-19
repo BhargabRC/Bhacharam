@@ -1,4 +1,5 @@
 import { AllRoutes } from "./Routes/AllRoutes"
+import './App.scss';
 
 function App() {
   return (
