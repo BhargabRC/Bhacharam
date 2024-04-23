@@ -1,2 +1,2 @@
 export {Home} from '../Pages/Home';
-export {SingleProduct} from '../Pages/SingleProduct';
+export {Product} from '../Pages/Product';
